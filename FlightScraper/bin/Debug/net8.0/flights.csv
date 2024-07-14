@@ -1,0 +1,3 @@
+Price,Taxes,OutboundAirportDeparture,OutboundAirportArrival,OutboundTimeDeparture,OutboundTimeArrival,OutboundFlightNumber,InboundAirportDeparture,InboundAirportArrival,InboundTimeDeparture,InboundTimeArrival,InboundFlightNumber
+2599.13,359.13,MAD,AUH,2024/08/23 14:00,2024/08/23 23:40,UX2703,AUH,MAD,2024/08/29 07:30,2024/08/29 12:30,UX2702
+4406.13,393.13,MAD,AUH,2024/08/23 14:00,2024/08/23 23:40,UX2703,AUH,MAD,2024/08/29 07:30,2024/08/29 12:30,UX2702

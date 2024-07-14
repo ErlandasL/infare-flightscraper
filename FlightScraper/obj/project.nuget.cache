@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1you0wQH6mKh82WxitiZKiOdlXoztMUKbVN71mBB34cYNnd8GXX7rFyNSIjC3OD9/Y6aTQogSrgGh3bXstmbA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/RiderProjects/FlightScraper/FlightScraper/FlightScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/htmlagilitypack/1.11.61/htmlagilitypack.1.11.61.nupkg.sha512",
+    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/selenium.support/4.22.0/selenium.support.4.22.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/selenium.webdriver/4.22.0/selenium.webdriver.4.22.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/selenium.webdriver.chromedriver/127.0.6533.2600-beta/selenium.webdriver.chromedriver.127.0.6533.2600-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
