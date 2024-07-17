@@ -22,3 +22,4 @@
 /Users/mac/RiderProjects/FlightScraper/FlightScraper/bin/Debug/net8.0/WebDriver.Support.dll
 /Users/mac/RiderProjects/FlightScraper/FlightScraper/bin/Debug/net8.0/WebDriver.dll
 /Users/mac/RiderProjects/FlightScraper/FlightScraper/bin/Debug/net8.0/CsvHelper.dll
+/Users/mac/RiderProjects/FlightScraper/FlightScraper/obj/Debug/net8.0/FlightScraper.sourcelink.json
