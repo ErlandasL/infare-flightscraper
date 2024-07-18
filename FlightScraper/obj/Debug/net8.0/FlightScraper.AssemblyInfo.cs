@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightScraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38abe8b88940041d57145c5ac5c881d8688418a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62852be96af46d6740cbfe1dc1b4da02a7e80f33")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightScraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightScraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

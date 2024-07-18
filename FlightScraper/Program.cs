@@ -55,10 +55,10 @@ namespace FlightScraper
         static string BuildUrl()
         {
             string baseUrl = "http://homeworktask.infare.lt/search.php";
-            string from = "MAD";
-            string to = "FUE";
-            string depart = "2024-08-23";
-            string returnDate = "2024-08-29";
+            string from = "JFK";
+            string to = "AUH";
+            string depart = "2024-08-25";
+            string returnDate = "2024-08-30";
             return $"{baseUrl}?from={from}&to={to}&depart={depart}&return={returnDate}";
         }
 
@@ -100,7 +100,7 @@ namespace FlightScraper
 
                     flightCsvTwoWays.Add(new FlightCsvTwoWays
                     {
-                        Price = group.TotalPrice,
+                        Price = Math.Round(group.TotalPrice, 2),
                         Taxes = Math.Round(group.TotalTaxes, 2),
                         Outbound1AirportDeparture = firstFlight.AirportDeparture.Code,
                         Outbound1AirportArrival = firstFlight.AirportArrival.Code,
@@ -146,7 +146,7 @@ namespace FlightScraper
 
                     flightCsv.Add(new FlightCsv
                     {
-                        Price = group.TotalPrice,
+                        Price = Math.Round(group.TotalPrice, 2),
                         Taxes = Math.Round(group.TotalTaxes, 2),
                         Outbound1AirportDeparture = firstOutboundFlight.AirportDeparture.Code,
                         Outbound1AirportArrival = firstOutboundFlight.AirportArrival.Code,
